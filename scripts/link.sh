@@ -2,6 +2,8 @@
 
 source scripts/variables.sh
 
+echo Linking directories...
+
 for dir in $PWD/src/*;
   do
     if [ -d "$dir" ]; then

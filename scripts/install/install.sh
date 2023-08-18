@@ -8,4 +8,4 @@ mkdir vendor
 ./scripts/install/converter.sh
 ./scripts/link.sh
 
-printf "${GREEN}Installation complete!\n${NC}"
+printf "${GREEN}\nInstallation complete!\n${NC}"
