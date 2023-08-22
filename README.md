@@ -1,4 +1,4 @@
-# chiptunes
+# 👾 chiptunes
 
 This is how I make chiptunes.
 
