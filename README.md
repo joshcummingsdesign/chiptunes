@@ -27,3 +27,9 @@ Big thanks to [Kent Hansen](https://www.youtube.com/watch?v=k4usxbg17Wg) for the
         make build SONG_NAME=<song-name>
 
 5.  Open the `build/<song-name>.nes` file in Nestopia.
+
+## Graphics
+
+Sprites are stored in the `graphics.chr` file, and can be edited with a tool like [YY-CHR](https://www.romhacking.net/utilities/958/).
+
+The `main.asm` file contains the graphics programming.
